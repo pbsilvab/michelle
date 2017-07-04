@@ -5,6 +5,9 @@
 	 <link rel="stylesheet" type="text/css" href="assets/css/bootstrap.min.css">
 </head>
 <body>
+<div class="col-md-4 col-md-offset-4"> 
+	<h1>hola</h1>
+</div>
 	<div class="container">
 		<div class="col-md-6 col-md-offset-3">
 			<div class="text-center">
