@@ -11,7 +11,7 @@
 	<div class="container">
 		<div class="col-md-6 col-md-offset-3">
 			<div class="text-center">
-				<h3>Registro de Nuevo Usuario al Sistema</h3>
+				<h3>Registro</h3>
 			</div>
 			<form id="formulario">
 				<div class="form-group">
